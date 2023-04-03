@@ -36,23 +36,20 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Light.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Light.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Light.ttf') format('truetype');
 }
 @font-face {
     font-family: 'KopubWorld Batang';
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Medium.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Medium.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Medium.ttf') format('truetype');
 }
 @font-face {
     font-family: 'KopubWorld Batang';
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Bold.otf') format('opentype'),
-         url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Bold.ttf') format('truetype');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KopubWorldBatang/KopubWorldBatang-Bold.ttf') format('truetype');
 }
 ```
