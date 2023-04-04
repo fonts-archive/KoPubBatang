@@ -15,7 +15,7 @@ font-family: 'KoPub Batang';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang.css" type="text/css"/>
 ```
 
 &nbsp;
