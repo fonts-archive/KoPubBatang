@@ -36,7 +36,9 @@ font-face
     font-weight: 300;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Light.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Light.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Light.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Light.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Light.ttf') format('truetype');
 }
 @font-face {
@@ -44,7 +46,9 @@ font-face
     font-weight: 500;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Medium.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Medium.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Medium.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Medium.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Medium.ttf') format('truetype');
 }
 @font-face {
@@ -52,7 +56,9 @@ font-face
     font-weight: 700;
     font-style: normal;
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Bold.otf') format('opentype'),
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Bold.woff2') format('woff2'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Bold.woff') format('woff'),
+         url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KoPubBatang/KoPubBatang-Bold.ttf') format('truetype');
 }
 ```
